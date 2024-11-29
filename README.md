@@ -22,12 +22,8 @@ This portfolio utilizes **GSAP (GreenSock Animation Platform)** to enhance the u
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/a1962115-380c-40f0-b7be-c205651ab8bd)
-![image](https://github.com/user-attachments/assets/61ed0b00-e64e-4a08-b38f-a9d2797ce7c0)
 ![image](https://github.com/user-attachments/assets/46d80e8a-6acd-43b5-950a-727cddb3d2ad)
-
-
-
-
+![image](https://github.com/user-attachments/assets/61ed0b00-e64e-4a08-b38f-a9d2797ce7c0)
 
 ## 🔧 Installation Instructions
 
