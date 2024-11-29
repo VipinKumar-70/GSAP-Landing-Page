@@ -21,6 +21,13 @@ Welcome to the **GSAP Landing Page**, a **clone of the WizardZ website** designe
 This portfolio utilizes **GSAP (GreenSock Animation Platform)** to enhance the user experience with smooth animations throughout the site. GSAP is used to reveal components on scroll, apply staggered animations for project cards, and add dynamic effects to various elements. This provides a professional, engaging feel to the user interface.
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/a1962115-380c-40f0-b7be-c205651ab8bd)
+![image](https://github.com/user-attachments/assets/61ed0b00-e64e-4a08-b38f-a9d2797ce7c0)
+![image](https://github.com/user-attachments/assets/46d80e8a-6acd-43b5-950a-727cddb3d2ad)
+
+
+
+
 
 ## 🔧 Installation Instructions
 
