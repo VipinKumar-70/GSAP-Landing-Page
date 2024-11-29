@@ -85,7 +85,6 @@ nav .part2 {
 .center-part1 h1 {
   font-size: 90px;
   font-weight: 400;
-  /* font-family: monospace; */
   line-height: 100px;
 }
 .center-part1 p {
@@ -134,7 +133,6 @@ nav .part2 {
   width: 100%;
   position: relative;
   padding: 35px 100px;
-  /* margin-bottom: 100px; */
 }
 
 .services {
@@ -175,7 +173,6 @@ nav .part2 {
   width: 46%;
   border: 3px solid #000;
   border-radius: 50px;
-  /* background-color: red; */
   box-shadow: 0 6px 0 black;
   padding: 50px;
   position: relative;

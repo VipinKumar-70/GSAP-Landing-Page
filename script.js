@@ -77,7 +77,7 @@ const scrollerAnimation = () => {
       opacity: 0,
       duration: 0.5,
     },
-    "line1animation" // aise value pass karne se animation sath mein chalte h
+    "line1animation"
   );
   tl2.from(
     ".elem.right.line1",
